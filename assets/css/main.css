@@ -389,6 +389,8 @@ input, select, textarea {
 	input[type="password"],
 	input[type="email"],
 	input[type="tel"],
+	input[type="date"],
+	input[type="file"],
 	select,
 	textarea {
 		-moz-appearance: none;
